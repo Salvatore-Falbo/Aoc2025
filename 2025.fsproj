@@ -10,6 +10,8 @@
     <Compile Include="Reader.fs" />
     <Compile Include="1/First.fs" />
     <Compile Include="1/Second.fs" />
+    <Compile Include="2/First.fs" />
+    <Compile Include="2/Second.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 

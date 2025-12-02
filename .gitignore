@@ -9,6 +9,7 @@ paket-files
 .vs/
 .vscode/
 .ionide/
+.config/
 .dotnet
 .problem-specifications/
 *.fsproj.user
