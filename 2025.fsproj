@@ -8,12 +8,14 @@
 
   <ItemGroup>
     <Compile Include="Reader.fs" />
-    <Compile Include="1/First.fs" />
-    <Compile Include="1/Second.fs" />
-    <Compile Include="2/First.fs" />
-    <Compile Include="2/Second.fs" />
-    <Compile Include="3/First.fs" />
-    <Compile Include="3/Second.fs" />
+    <Compile Include="01/First.fs" />
+    <Compile Include="01/Second.fs" />
+    <Compile Include="02/First.fs" />
+    <Compile Include="02/Second.fs" />
+    <Compile Include="03/First.fs" />
+    <Compile Include="03/Second.fs" />
+    <Compile Include="04/First.fs" />
+    <Compile Include="04/Second.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 

@@ -11,7 +11,7 @@ let dividers (number: float) =
 
 let second =
     let mutable sum: uint64 = 0UL
-    let input = Reader.ReadLines "2\\input.txt" |> Seq.head
+    let input = Reader.ReadLines "02\\input.txt" |> Seq.head
 
     for line in input.Split(",") do
         let [| startString; stopString |] = line.Split("-")

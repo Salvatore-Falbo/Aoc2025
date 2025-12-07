@@ -20,7 +20,7 @@ let parser (line: string) (indexes: int array) =
 
 let second =
     let mutable sum: uint64 = 0UL
-    let input = Reader.ReadLines "3\\input.txt"
+    let input = Reader.ReadLines "03\\input.txt"
 
     for line in input do
         let indexes = Array.init 12 (fun n -> n)

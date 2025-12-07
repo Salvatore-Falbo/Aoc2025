@@ -14,7 +14,7 @@ let parser char1 char2 =
 
 let first =
     let mutable sum = 0
-    let input = Reader.ReadLines "3\\input.txt"
+    let input = Reader.ReadLines "03\\input.txt"
 
     for line in input do
         let index1 = highest line[0 .. (line.Length - 2)]
