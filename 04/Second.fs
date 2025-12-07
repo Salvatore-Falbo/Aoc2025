@@ -59,4 +59,4 @@ let second =
 
     let result = count &framed
 
-    printfn $"4-1 solution: {result}"
+    printfn $"4-2 solution: {result}"

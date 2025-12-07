@@ -16,6 +16,8 @@
     <Compile Include="03/Second.fs" />
     <Compile Include="04/First.fs" />
     <Compile Include="04/Second.fs" />
+    <Compile Include="05/First.fs" />
+    <Compile Include="05/Second.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
